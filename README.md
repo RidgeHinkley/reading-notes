@@ -3,7 +3,7 @@
 Hello! My name is Ridge and I live in Seattle. 
 
 Link to [my Github portfolio](https://github.com/ridgehinkley) 
-:alien:
+🥸
 
 ## What is a growth mindset?
 
