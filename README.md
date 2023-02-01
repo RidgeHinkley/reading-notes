@@ -12,6 +12,6 @@ What growth mindset means to me is never seeing setbacks as failure, but as lear
 
 1. Keep pushing forward even when discouraged or stuck.
 2. No negative self-talk.
-3. **Practice, practice, practice!**
+3. <mark>Practice, practice, practice!</mark>
 
 ![alt text](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/8/197/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
