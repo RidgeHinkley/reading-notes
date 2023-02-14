@@ -8,4 +8,6 @@ However, the CVCS provided issues with stability. BEcause of this, the DVCS was 
 
 To prevent this type of catastrophic loss, a DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information. Because the DVCS allows for multiple mirrored repositories, programmers working in teams can collaborate with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows."[^1]
 
+This module reminds me of my personal experience in life. Working in teams and having the tools to do the work correctly makes everything smoother. I can see this being a huge help in the web development sector as people can work on things at different times depending on scheduling. THey can also have an active proofreading system through the use of teammates. 
+
 [^1]: [Source](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2_1)
