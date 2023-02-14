@@ -1,29 +1,23 @@
-## My Reading Journal
+# My Reading Journal
 
 Hello! My name is Ridge and I live in Seattle.
 
 Link to [my Github portfolio](https://github.com/ridgehinkley)
 🥸
 
-## What is a growth mindset?
+## What am I seeking to accomplish?
 
-What growth mindset means to me is never seeing setbacks as failure, but as learning opportunities. Always believing in my ability to become better through challenging times.
-
-## Three reminders to stay in a growth mindset
-
-1. Keep pushing forward even when discouraged or stuck.
-2. No negative self-talk.
-3. **Practice, practice, practice!**
+This is a roadmap of my time spent at Code Fellows. This site doubles as a notes application for me and a showcase of my learned abilities.
 
 ## Table of Contents for Code 102
 
-1. [Class One](#example)
+1. [Markdown](https://ridgehinkley.github.io/reading-notes/classone)
 
-2. [Class Two](#example)
+2. [Text Editors](https://ridgehinkley.github.io/reading-notes/classtwo)
 
-3. [Class Three](#example)
+3. [Revisions and the Cloud](https://ridgehinkley.github.io/reading-notes/classthree)
 
-4. [CLass Four](#example)
+4. [Class Four](#example)
 
 5. [Class Five](#example)
 
@@ -65,4 +59,3 @@ What growth mindset means to me is never seeing setbacks as failure, but as lear
 
 15. [Class Fifteen](#example)
 
-![alt text](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/8/197/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
