@@ -30,6 +30,7 @@ This is a roadmap of my time spent at Code Fellows. This site doubles as a notes
 ## Table of Contents for Code 201
 
 1. [Class One](#example)
+
 2. [Class Two](#example)
 
 3. [Class Three](#example)
@@ -57,4 +58,3 @@ This is a roadmap of my time spent at Code Fellows. This site doubles as a notes
 14. [Class Fourteen](#example)
 
 15. [Class Fifteen](#example)
-
